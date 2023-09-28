@@ -29,12 +29,11 @@ Projede bir dizi JUnit testi bulunmaktadır. Bu testler, kütüphanenin doğru b
 
 ## Kurulum ve Kullanım
 
-### 1. Projeyi Klonlama
+## 1. Projeyi Klonlama
 Yerel makinenize projeyi klonlamak için aşağıdaki komutu kullanın:
-
-bash
-Copy code
+```bash
 git clone https://github.com/muharremosmantopakkaya/JUnitNumberUtilitiesLibrary.git
+
 
 ### 2. Bağımlılıkları Yükleme
 Eğer Maven kullanıyorsanız, projedeki bağımlılıkları yüklemek için:
