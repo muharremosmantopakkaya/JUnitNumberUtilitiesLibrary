@@ -48,4 +48,4 @@ Eğer Gradle kullanıyorsanız, aşağıdaki komutla bağımlılıkları yükley
 bash
 
 gradle build
-
+```
