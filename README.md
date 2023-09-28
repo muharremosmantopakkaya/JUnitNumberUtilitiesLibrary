@@ -35,11 +35,12 @@ Yerel makinenize projeyi klonlamak için aşağıdaki komutu kullanın:
 git clone https://github.com/muharremosmantopakkaya/JUnitNumberUtilitiesLibrary.git
 
 
-### 2. Bağımlılıkları Yükleme
-Eğer Maven kullanıyorsanız, projedeki bağımlılıkları yüklemek için:
-bash
-Copy code
+## 2. Bağımlılıkları Yükleme
+
+- **Maven Kullanıcıları İçin:** Projedeki bağımlılıkları yüklemek için:
+```bash
 mvn install
+
 
 Eğer Gradle kullanıyorsanız, aşağıdaki komutla bağımlılıkları yükleyin (bu adımı projenizde Gradle kullanılıyorsa ekleyin):
 
