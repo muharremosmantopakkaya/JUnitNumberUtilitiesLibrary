@@ -29,5 +29,23 @@ Projede bir dizi JUnit testi bulunmaktadır. Bu testler, kütüphanenin doğru b
 
 ## Kurulum ve Kullanım
 
-Projeyi yerel makinenize klonlayarak başlayabilirsiniz:
-Maven veya Gradle gibi bağımlılık yöneticileri ile projenin bağımlılıklarını yükleyebilirsiniz.
+1. Projeyi Klonlama
+Yerel makinenize projeyi klonlamak için aşağıdaki komutu kullanın:
+
+bash
+Copy code
+git clone https://github.com/muharremosmantopakkaya/JUnitNumberUtilitiesLibrary.git
+2. Bağımlılıkları Yükleme
+Eğer Maven kullanıyorsanız, projedeki bağımlılıkları yüklemek için:
+
+bash
+Copy code
+mvn install
+Eğer Gradle kullanıyorsanız, aşağıdaki komutla bağımlılıkları yükleyin (bu adımı projenizde Gradle kullanılıyorsa ekleyin):
+
+bash
+Copy code
+gradle build
+
+3. Belgeler ve Örnekler
+Projeyi en iyi şekilde kullanabilmek için belgelere ve örnek kodlara göz atın.
