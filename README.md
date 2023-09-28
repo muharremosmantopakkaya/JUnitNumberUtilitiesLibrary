@@ -42,7 +42,7 @@ git clone https://github.com/muharremosmantopakkaya/JUnitNumberUtilitiesLibrary.
 mvn install
 ```
 
-
+## 3. Gradle İse
 Eğer Gradle kullanıyorsanız, aşağıdaki komutla bağımlılıkları yükleyin (bu adımı projenizde Gradle kullanılıyorsa ekleyin):
 
 bash
